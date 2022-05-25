@@ -1,0 +1,20 @@
+
+    /* css reset */
+    *,*::before,*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    }
+    body {height:100vh; }
+
+    div {background-color: purple; margin:10px;padding:10px;color:white; text-align: center;font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+    #middle {margin:10px; padding:10px; display:flex; background-color:turquoise; height:80%}
+    #left {width:20%;}
+    #main {width:60%;}
+    #right {width:20%;}
+
+    
+        /* left , top, bottom, right, width and height */
+
